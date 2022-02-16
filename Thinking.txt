@@ -1,0 +1,19 @@
+-Thinking about the UI (wire-framing)
+-functionality
+ -add TODO_ITEM
+ -delete TODO_ITEM
+ -check tasks
+ -Total tasks
+-Data
+ -task- Array [{},{},{}]
+ -task- An Object
+  {
+      done: true/false,
+      text-'Go to the Gym'.
+      id-
+  }
+functions (in code)
+ -addTodo
+ -deleteTodo
+ -checkTodo
+ -renderList
